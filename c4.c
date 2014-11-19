@@ -508,3 +508,4 @@ main(int argc, char **argv)
     else { printf("unknown instruction = %d! cycle = %d\n", i, cycle); return -1; }
   }
 }
+
